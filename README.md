@@ -1,1 +1,3 @@
 # CodeAcademy
+
+(!) - yra nebaigtu uzduociu
