@@ -1,0 +1,36 @@
+::-webkit-scrollbar{
+  width: 50px;
+}
+
+::-webkit-scrollbar-track{
+  background: black;
+}
+::-webkit-scrollbar-thumb{
+  background-color: aqua;
+}
+::-webkit-scrollbar-track-piece{
+  background: blue;
+}
+
+body {
+  color: red;
+}
+
+body > main > :nth-child(3) {
+  background-color: antiquewhite;
+}
+body > main > :nth-child(3) > h1 {
+  color: orange;
+  font-size: 50px;
+}
+body > main > :nth-child(3) > p {
+  color: blue;
+  font-size: 20px;
+}
+body > main > section:nth-child(4) {
+  background-color: aliceblue;
+}
+
+li {
+  color: rgb(126, 16, 16);
+}/*# sourceMappingURL=style.css.map */
